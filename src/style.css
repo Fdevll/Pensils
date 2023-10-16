@@ -1,0 +1,89 @@
+@font-face {
+    font-family: B612;
+    src: url(B612-Regular.ttf);
+}
+
+body {
+    font-family: B612;
+    font-size: 16px;
+    color: white;
+}
+
+.Football, .PHP, .PS {
+    column-count: 2;
+}
+
+.Zag {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+    
+dl {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+.Footballl {
+    margin: 45px;
+    border: 1px solid gray;
+    border-radius: 35px;
+    transition: all 0.4s linear;
+    background: linear-gradient(90deg, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+}
+
+.Footballl:hover {
+    transform:scale(1.05);
+}
+
+.vid {
+    padding-left: 75px;
+}
+
+.text {
+    padding-top: 20px;
+}
+
+.PHPP {
+    margin: 45px;
+    border: 1px solid gray;
+    border-radius: 35px;
+    transition: all 0.4s linear;
+    background: linear-gradient(90deg, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+}
+
+.PHPP:hover {
+    transform:scale(1.05);
+}
+
+.PSS {
+    margin: 45px;
+    border: 1px solid gray;
+    border-radius: 35px;
+    transition: all 0.4s linear;
+    background: linear-gradient(90deg, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+}
+
+.PSS:hover {
+    transform:  scale(1.05);
+}
+
+header {
+    color: gray;
+}   
+
+footer {
+    background-color: gray;
+    height: 150px;
+    text-align: center;
+    font-size: 45px;
+}
+
+.p {
+    padding-top: 50px;
+}
